@@ -1,0 +1,26 @@
+@import 'tailwindcss';
+
+@theme {
+    --font-vcr: 'vcr', 'sans-serif';
+}
+
+@font-face {
+    font-family: 'vcr';
+    src: url('vcr_osd_mono.ttf') format('truetype');
+}
+
+.perspective {
+    perspective: 1000px;
+}
+
+.preserve-3d {
+    transform-style: preserve-3d;
+}
+
+.my-rotate-y-180 {
+    transform: rotateY(180deg);
+}
+
+.backface-hidden {
+    backface-visibility: hidden;
+}
