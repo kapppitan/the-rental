@@ -1,0 +1,14 @@
+{
+    "movie1": {
+        "title": "The Hangman",
+        "synopsis": "A movie about an urban legend."
+    },
+    "movie2": {
+        "title": "Project 002",
+        "synopsis": "--:--"
+    },
+    "movie3": {
+        "title": "Project 003",
+        "synopsis": "--:--"
+    }
+}
